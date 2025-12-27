@@ -2,7 +2,7 @@
 I’m a B.Tech Computer Science student with a strong interest in Artificial Intelligence and Machine Learning, currently preparing for placements with a focus on solid fundamentals and practical projects. I enjoy working on data-driven problems, understanding the reasoning behind algorithms, and building clear, explainable solutions. Alongside ML, I am strengthening my core computer science subjects and problem-solving skills to grow into a well-rounded software engineer.
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohan-varkhedi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohanvarkhedi@gmail.com) 
 
 # Tech Stack:
